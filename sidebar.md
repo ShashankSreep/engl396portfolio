@@ -1,16 +1,20 @@
 <!-- _sidebar.md -->
 
-## &nbsp; ENGL 396
+## &nbsp; Home
 
 * [Home](README.md)
 
-* First Group
+* Overview
 
   * [Doc One](docone.md)
   * [Doc Two](doctwo.md)
   * [Doc Three](docthree.md)
   
-* Second Group 
+* Tasks 
 
   * [Doc Four](docfour.md)
   * [Doc Five](docfive.md)
+* Reference
+
+  * [Code Comment](codecomment.md)
+  * [FAQ](faq.md)
