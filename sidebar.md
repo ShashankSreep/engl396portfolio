@@ -23,6 +23,11 @@
     * [Top Albums By Year](Tasks/Website/topAlbumsByYear.md)
     * [Vinyl](Tasks/Website/vinyl.md)
     * [Band Comparison](Tasks/Website/bandComparison.md)
+  * Code
+  * [Slider Tasks](Tasks/Code/sliderCode.md)
+  * [Vinyl Tasks](Tasks/Code/vinylCode.md)
+  * [Albums By Year Tasks](Tasks/Code/albumsByYearCode.md)
+  * [Band Comparison Tasks](Tasks/Code/bandComparisonCode.md)
 * Reference
 
   * [Code Comment](Reference/comments.md)
