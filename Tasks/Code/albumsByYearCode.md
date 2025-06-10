@@ -10,4 +10,8 @@ You should see a function called **year_albums**.
 
 2) In the **year_list** field, surround the existing code with the `head()` function as shown below:
 
+```
+year_list <- head(select(filter(album_data[order(album_data$Ranking),], Year == year.var), Ranking, Album, Artist), 10)
+```
 <!-- Add a Note below -->
+>**Note**: To customize the number of values returned, replace the 10 in the code with a value of your choice. 

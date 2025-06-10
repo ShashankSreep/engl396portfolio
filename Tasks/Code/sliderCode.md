@@ -6,11 +6,14 @@ If you would like to update the range, follow the steps below:
 
 1) Navigate to **app_ui.R** in RStudio, in the same directory you ran the program
 
-    a) You should see a couple tabPanel objects as shown below: 
-
 2) In the tabPanel named **Number One Albums**, update the **min** and **max** values to reflect your desired range
 
 <!-- Add code snippets below -->
+```
+tabPanel("Number One Albums", 
+         htmlOutput("text3")
+         sliderInput("rng", "Choose the Years", value = c(1993, 1998), min = 1990, max = 2020)),
+```
 a) If done correctly, when you rerun the application and navigate to the **Number One Albums** tab, the min and max range for the slider should be updated.
 
 
@@ -21,10 +24,13 @@ To modify this range (increase/decrease), follow the steps below:
 
 1) Navigate to **app_ui.R** in RStudio
 
-    a) You should see a list of tabPanels as shown below
-
 2) Navigate to the tabPanel labeled **Number One Albums**
 
 3) In the sliderInput for this tabPanel, update the value range from `c(1993, 1998)` to `(c<low>, <high>)`, where low and high represent the years in the range.
 
-    a) If done correctly, you should see the updated default range, when you rerun the application
+```
+tabPanel("Number One Albums", 
+         htmlOutput("text3")
+         sliderInput("rng", "Choose the Years", value = c(1990, 1998), min = 1990, max = 2020)),
+```
+a) If done correctly, you should see the updated default range, when you rerun the application

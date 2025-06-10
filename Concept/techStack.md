@@ -14,9 +14,9 @@ Shiny is an R packaghe that makes it easy to build interactive web applications 
 > **Note**: In order to locally run the application, R and RStudio must be installed.
 
 
-**Install R**:  (INSERT LINK)
+**Install R**: [https://www.r-project.org/](https://www.r-project.org/)
 
-**Install RStudio**: (INSERT LINK)
+**Install RStudio**: [https://posit.co/download/rstudio-desktop/](https://posit.co/download/rstudio-desktop/)
 
 
 # Packages

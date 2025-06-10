@@ -10,6 +10,10 @@ To interact with Band Compariosn, follow the steps below:
 
 4) Select the artist/band from the options in the dropdown menu
 
+![Band Comp 1](..//Images/396_18.png)
+
 - If done correctly, you should see the graph display the average ratings given to the band/artists albums for a particular year
 
 - If there are multiple years for which the particular artist/bands album was rated, the graph should display a line-graph showing the change in rating
+
+![Band Comp 2](..//Images/396_19.png)

@@ -18,8 +18,7 @@ Below is a sample structure of the CSV file, the application uses:
 
 **Vinyl**: Indicated if a user owns a vinyl for this particular album
 
-**Live**: (Ask Chris)
-
+> **Note**: While EP and Live are fields in the CSV file, they are not used in any feature in the code currently. Make sure to include them in the columns in order to keep the format the same.
 ```
 Year, Ranking, Album, Artist, Rating, Vinyl, EP, Live
 1993, 1, August and Everything After, Counting Crows, 10, v, ,
@@ -28,3 +27,6 @@ Year, Ranking, Album, Artist, Rating, Vinyl, EP, Live
 
 In a CSV file, to indicate no content or null content for a particular column, simply leave the column blank.
 
+
+To view the live version of the website, click the link below:
+>**Website Link**: [Live Deployed My Favorite Albums](https://cholstro.shinyapps.io/shiny-music/)

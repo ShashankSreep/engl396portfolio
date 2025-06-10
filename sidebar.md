@@ -29,6 +29,11 @@
   * [Albums By Year Tasks](Tasks/Code/albumsByYearCode.md)
   * [Band Comparison Tasks](Tasks/Code/bandComparisonCode.md)
 * Reference
-
-  * [Code Comment](Reference/comments.md)
-  * [FAQ](Reference/faq.md)
+  * [Number One Albums](Reference/Comments/numberOneAlbums.md)
+  * [Bands And Artists](Reference/Comments/bandsAndArtists.md)
+  * [Albums By Year](Reference/Comments/AlbumsByYear.md)
+  * [Vinyl](Reference/Comments/Vinyl.md)
+  * [Band Comparison](Reference/Comments/bandComparison.md)
+  * [App UI](Reference/Comments/appUI.md)
+  * [Server](Reference/Comments/server.md)
+  * [Glossary](Reference/faq.md)

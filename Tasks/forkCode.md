@@ -7,11 +7,13 @@
 2) Once signed in, navigate to the [repository]('LINKTOREPO')
 
 3) Click on the **Fork** button
+    ![Fork Image](../Images/396_3.png)
 
 4) Make sure your account name is the owner name, and select a repository repository name if you would like (although the default is perfectly fine as well)
 
 
 5) Click on **Create Fork** at the bottom right of the page
+    ![Create Fork Image](../Images/396_4.png)
     - If successfully done, you should see a repository created, with the ‘Repository name’ in your list of repositories
 
 6) Navigate to your forked repository, and download the source code

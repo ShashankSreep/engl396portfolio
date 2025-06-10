@@ -47,12 +47,19 @@ ggtitle(paste0("Album Ratings for ", band_1))
 1) Navigate to the tabPanel object named **Band Comparison**
 
 2) Add a new selectInput element for selecting the third band/artists as shown below:
-
+```
+selectInput("band_name_3", "Third band or artist:", all_bands),
+```
 **app_server.R**
 1) Navigate to the output element, which returns the band_album_comparison_chart
 
 2) Add a field input$band_name_3
 
+```
+output$compare_bands <- renderPlot({
+    return(band_album_comparison_chart(input$band_name_1, input$band_name_2, input$band_name_3))
+})
+```
 
 Run **app.R** to run the application locally, and you should see the changes reflected
 
