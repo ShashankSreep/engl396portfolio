@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Albums By Year
 
 >**Note**: Comments are marked with a # in the code snippets

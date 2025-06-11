@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # Glossary
 
 **Console**: A text interface, that can be used to interact with the computer program

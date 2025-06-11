@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Run App Locally
 
 To run the application locally follow the steps below:

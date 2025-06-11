@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Fork The Source Code from the GitHub Repository
 
 **Note**: Forking a GitHub repository aloows for you to maintain version control independently without affecting the original repository
@@ -33,7 +35,7 @@ Alternatively, you can choose to **clone** the repository
 
 3) Click on the green **Code** dropdown
 
-  ![Code Dropdown](396_1.png)
+  ![Code Drop](396_1.png)
 
 4) Clone with HTTPS by clicking on the clipboard to copy the link, or manually copy the link
 

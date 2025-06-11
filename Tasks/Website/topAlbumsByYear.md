@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Top Albums by Year
 
 To interact with Top Albums by Year, follow the steps below:

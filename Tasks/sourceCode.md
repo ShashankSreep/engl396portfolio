@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Download the Source Code from the GitHub Repository
 
 1) In your browser, visit the GitHub repository containing the source code: [Source Code](https://github.com/UW-Example-Student/MyFavoriteAlbums)

@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # NUMBER 1 ALBUMS
 
 ## How to Adjust the *years* slider

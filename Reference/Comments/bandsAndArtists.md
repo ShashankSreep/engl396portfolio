@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Bands and Artists
 
 >**Note**: Comments are marked with a # in the code snippets

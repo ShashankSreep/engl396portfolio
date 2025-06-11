@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # EDIT CSV
 
 >**Note**: The format of your custom CSV must match exactly with the format of the original

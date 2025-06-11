@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # BANDS AND ARTISTS
 
 To interact with Bands And Artists, follow the steps below:

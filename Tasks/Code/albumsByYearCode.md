@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## How to Update the Number Of Albums Shown for Top Albums By Year
 
 Currently, the application returns all of the albums ranked from top to bottom for the particular year: 

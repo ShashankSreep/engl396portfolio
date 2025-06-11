@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # BAND COMPARISON
 
 To interact with Band Comparison, follow the steps below:

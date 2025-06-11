@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # How to Update the Slider Input For Number One Albums Tab
 
 Currently, the slider defaults to years from 1993 - 2024

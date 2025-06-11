@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # How to update the rating filter for Top-Rated albums you do not own vinyls for
 
 1) Navigate to **vinyl.R** in RStudio

@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Band Comparison
 
 >**Note**: Comments are marked with a # in the code snippets

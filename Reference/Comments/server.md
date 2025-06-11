@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 ## Server.R
 
 >**Note**: Comments are marked with a # in the code snippets

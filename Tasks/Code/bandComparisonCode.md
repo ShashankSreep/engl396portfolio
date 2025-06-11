@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 # How to Add More Bands To Compare For Band Comparison
 
 Note: To complete this, multiple files will need to be changed (We will go file by file):
