@@ -8,14 +8,13 @@
 
 3) Click on the **Fork** button
 
-    <img src="../Images/396_3.png" alt="Fork Image" width="400"/>
-
+    ![Fork Image](../Images/396_3.png)
 
 4) Make sure your account name is the owner name, and select a repository repository name if you would like (although the default is perfectly fine as well)
 
 
 5) Click on **Create Fork** at the bottom right of the page
-    <img src="../Images/396_4.png" alt="Create Fork Image" width="600"/>
+    ![Create Fork Image](../Images/396_4.png)
 
     - If successfully done, you should see a repository created, with the ‘Repository name’ in your list of repositories
 
@@ -33,11 +32,11 @@ Alternatively, you can choose to **clone** the repository
 
 3) Click on the green **Code** dropdown
 
-  <img src="../Images/396_1.png" alt="Code Dropdown" width="400"/>
+  ![Code Dropdown](../Images/396_1.png)
 
 4) Clone with HTTPS by clicking on the clipboard to copy the link, or manually copy the link
 
- <img src="../Images/396_22.png" alt="Code Dropdown" width="400"/>
+ ![Code Dropdown](../Images/396_22.png)
 
 5) Open your terminal and do the following:
 
@@ -53,5 +52,3 @@ If done correctly, this should be saved in the directory, you performed this com
 >**Tips**: Ensure you have git tools installed in your terminal, or are using something that allows for git commands
 
 For instructions, please visit: [Clone Git Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-
-
