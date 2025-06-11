@@ -3,7 +3,7 @@
 1) In your browser, visit the GitHub repository containing the source code: [Source Code](https://github.com/UW-Example-Student/MyFavoriteAlbums)
 2) Click on the green **Code** button
    
-  <img src="../Images/396_1.png" alt="Code Dropdown" width="400"/>
+  ![Source 1](396_1.png)
 
 
    - If done correctly, you should see a dropdown, as shown below
