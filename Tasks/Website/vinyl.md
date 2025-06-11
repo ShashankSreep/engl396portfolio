@@ -7,4 +7,4 @@ In the current version of this app, this tab does not support any major user int
 >**Link To View Website**: https://cholstro.shinyapps.io/shiny-music/
 
 
-In order to customize this tab for your personal application, navigate to **Code > Vinyl Tasks**
+In order to customize this tab for your personal application, navigate to **Code > Vinyl Tasks**.

@@ -5,7 +5,7 @@
 Note: To complete this, multiple files will need to be changed (We will go file by file):
 
 **compare_bands.R**
-1) Navigate to **compare_bands.R** in RStudio
+1) Navigate to **compare_bands.R** in RStudio.
 
 You should see the function **band_album_comparison_chart** taking the parameters
 `var.artist1, var.artist2`
@@ -37,7 +37,7 @@ Note: For the color, you can choose anything, so long as it is a valid color in 
 geom_point(data = band3_albums, aes(x = Year, y = Rating))
 ```
 
-6) In the **ggtitle** object, update the title to reflect the new album
+6) In the **ggtitle** object, update the title to reflect the new album.
 
 ```
 ggtitle(paste0("Album Ratings for ", band_1)) 
@@ -46,16 +46,16 @@ ggtitle(paste0("Album Ratings for ", band_1))
 
 
 **app_ui.R**
-1) Navigate to the tabPanel object named **Band Comparison**
+1) Navigate to the tabPanel object named **Band Comparison**.
 
 2) Add a new selectInput element for selecting the third band/artists as shown below:
 ```
 selectInput("band_name_3", "Third band or artist:", all_bands),
 ```
 **app_server.R**
-1) Navigate to the output element, which returns the band_album_comparison_chart
+1) Navigate to the output element, which returns the band_album_comparison_chart.
 
-2) Add a field input$band_name_3
+2) Add a field input$band_name_3.
 
 ```
 output$compare_bands <- renderPlot({
@@ -63,5 +63,5 @@ output$compare_bands <- renderPlot({
 })
 ```
 
-Run **app.R** to run the application locally, and you should see the changes reflected
+Run **app.R** to run the application locally, and you should see the changes reflected.
 
