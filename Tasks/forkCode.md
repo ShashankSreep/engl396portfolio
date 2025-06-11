@@ -8,13 +8,14 @@
 
 3) Click on the **Fork** button
 
-    ![Fork Image](../Images/396_3.png)
+    ![Fork Image](396_3.png)
 
 4) Make sure your account name is the owner name, and select a repository repository name if you would like (although the default is perfectly fine as well)
 
 
 5) Click on **Create Fork** at the bottom right of the page
-    ![Create Fork Image](../Images/396_4.png)
+
+    ![Create Fork Image](396_4.png)
 
     - If successfully done, you should see a repository created, with the ‘Repository name’ in your list of repositories
 
@@ -32,11 +33,11 @@ Alternatively, you can choose to **clone** the repository
 
 3) Click on the green **Code** dropdown
 
-  ![Code Dropdown](../Images/396_1.png)
+  ![Code Dropdown](Images/396_1.png)
 
 4) Clone with HTTPS by clicking on the clipboard to copy the link, or manually copy the link
 
- ![Code Dropdown](../Images/396_22.png)
+ ![Code Dropdown](396_22.png)
 
 5) Open your terminal and do the following:
 
