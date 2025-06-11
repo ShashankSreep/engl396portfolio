@@ -8,7 +8,7 @@
 
    - If done correctly, you should see a dropdown, as shown below
 
-      <img src="../Images/396_2.png" alt="Dropdown Zip" width="500"/>
+      <img src="396_2.png" alt="Dropdown Zip" width="500"/>
 
 3) Click on the option: **Download ZIP**, and save it to your folder location of choice
 
