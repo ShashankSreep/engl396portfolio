@@ -1,7 +1,21 @@
-# <a id="home-page"></a> Home Page
+# <a id="home-page"></a> Home
 
-> This is the home page.
+Welcome to **My Favorite Albums**!
 
-You can write all the markdown that you want here. You should update this page, the other
-pages, and the left navigation (sidebar.md). The index.html file doesn't contain any of
-the content for the site. These pages use Docsify: https://docsify.js.org/#/?id=docsify
+![Screenshot of My Favorite Albums app](/Images/396_20.png)
+
+
+In this application, you can analyze your album ratings through statistical and graphical analysis, gaining insights into your favorite albums and artists.
+
+Whether you want to just interact with an existing user interface/website, customize the app to use your personal data, or extend the core functionality, My Favorite Albums supports it!
+
+The easy to use interface, and open source nature of the code, allows users of all backgrounds and skillsets to interact with the application's infrastructure!
+
+To learn more about the app, please visit the **overview**: [App Overview](/Concept/appOverview.md)
+
+To learn about how to interact with specific features and customize the application, please visit the **tasks**: [Task Overview](/Tasks/sourceCode.md)
+
+To learn more about the code base and get specific documentation, please visit the **reference**: [Reference Overview](/Reference/Comments/numberOneAlbums.md)
+
+
+

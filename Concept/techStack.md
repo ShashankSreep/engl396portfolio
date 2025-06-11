@@ -4,7 +4,7 @@
 
 
 # Shiny Package
-Shiny is an R packaghe that makes it easy to build interactive web applications in R. Programmers can create a user interface and server, and Shiny compiles this code into the proper HTML, CSS, and Javascript in order to run the application on the web. 
+Shiny is an R package that makes it easy to build interactive web applications in R. Programmers can create a user interface and server, and Shiny compiles this code into the proper HTML, CSS, and Javascript in order to run the application on the web. 
 
 
 # R Studio

@@ -1,5 +1,7 @@
 ## App UI.R
 
+>**Note**: Comments are marked with a # in the code snippets
+
 ```r
 # Reads in the album data from the album-rankings csv file
 # @Params: 

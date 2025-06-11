@@ -1,5 +1,7 @@
 ## Band Comparison
 
+>**Note**: Comments are marked with a # in the code snippets
+
 ```r
 # Function: Plots and compares any 2 bands/artists and their album ratings over time
 # - @Params

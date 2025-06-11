@@ -1,5 +1,7 @@
 ## Server.R
 
+>**Note**: Comments are marked with a # in the code snippets
+
 ```r
 # When the user interacts with the UI, based on the user’s action, the server will execute the appropriate code in order to reflect the input
 server <- function(input, output) {
