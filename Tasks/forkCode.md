@@ -33,7 +33,7 @@ Alternatively, you can choose to **clone** the repository
 
 3) Click on the green **Code** dropdown
 
-  ![Code Dropdown](Images/396_1.png)
+  ![Code Dropdown](396_1.png)
 
 4) Clone with HTTPS by clicking on the clipboard to copy the link, or manually copy the link
 

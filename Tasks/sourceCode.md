@@ -8,7 +8,7 @@
 
    - If done correctly, you should see a dropdown, as shown below
 
-   ![Source 2](396_2.png)
+   ![Source 2](image.png)
 
 3) Click on the option: **Download ZIP**, and save it to your folder location of choice
 

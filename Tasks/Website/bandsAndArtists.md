@@ -9,4 +9,5 @@ To interact with Bands And Artists, follow the steps below:
 a) If done correctly, you will see all of the albums from this band/artist that bas been ranked, with the average rating for them
 
 <!-- Add Image below -->
-<img src="../../Images/396_15.png" alt="Band 1" width="400">
+
+![Band 1](396_15.png)
