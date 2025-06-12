@@ -25,7 +25,7 @@
 
 Alternatively, you can choose to **clone** the repository.
 
->**Note**: If you choose to clone the repository, when pushing, you must push to your personal repository, not the one you cloned from
+>**Note**: If you choose to clone the repository, when pushing, you must push to your personal repository, not the one you cloned from.
 
 ## Clone the Source Code
 1) [Create](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github) a GitHub account, if you do not already have one.
@@ -37,11 +37,11 @@ Alternatively, you can choose to **clone** the repository.
 
   ![Code Drop](396_1.png)
 
-4) Clone with HTTPS by clicking on the clipboard to copy the link, or manually copy the link.
+4) Clone with **HTTPS** by clicking on the clipboard to copy the link, or manually copy the link.
 
  ![Code Dropdown](396_22.png)
 
-5) Open your terminal and do the following:
+5) Open your terminal and type in the following:
 
     ```
     git clone <HTTPS REPO LINK YOU COPIED>
@@ -52,6 +52,6 @@ If done correctly, this should be saved in the directory, you performed this com
 
 6) Now, you can run the app locally by following the steps: [Run App Locally](/Tasks/appLocal.md).
 
->**Tips**: Ensure you have git tools installed in your terminal, or are using something that allows for git commands
+>**Tips**: Ensure you have git tools installed in your terminal, or are using something that allows for git commands (eg: Git bash).
 
-For instructions, please visit: [Clone Git Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+For further help, please visit: [Clone Git Repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
