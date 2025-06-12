@@ -2,6 +2,8 @@
 
 # Glossary
 
+>**Note**: This contains a list of frequent terms used throughout the documentation and their meanings.
+
 **Console**: A text interface, that can be used to interact with the computer program
 Ex: By printing to the console, you can use this as a way to verify the program is performing the intended action/has the intended behavior
 
