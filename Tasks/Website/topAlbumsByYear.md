@@ -10,6 +10,6 @@ To interact with Top Albums by Year, follow the steps below:
 
 2) Select a year from the dropdown menu and click **Submit**.  
 
-a) If done correctly, you should see every album ranked from **Highest** to **Lowest**, followed by the **Artist**.
+If done correctly, you should see every album ranked from **Highest** to **Lowest**, followed by the **Artist**.
 
 ![Year 2](396_17.png)

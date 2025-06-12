@@ -16,7 +16,7 @@ tabPanel("Number One Albums",
          htmlOutput("text3")
          sliderInput("rng", "Choose the Years", value = c(1993, 1998), min = 1990, max = 2020)),
 ```
-a) If done correctly, when you rerun the application and navigate to the **Number One Albums** tab, the min and max range for the slider should be updated.
+If done correctly, when you rerun the application and navigate to the **Number One Albums** tab, the min and max range for the slider should be updated.
 
 
 # How to Update the Default Slider Range
@@ -35,4 +35,4 @@ tabPanel("Number One Albums",
          htmlOutput("text3")
          sliderInput("rng", "Choose the Years", value = c(1990, 1998), min = 1990, max = 2020)),
 ```
-a) If done correctly, you should see the updated default range, when you rerun the application.
+If done correctly, you should see the updated default range, when you rerun the application.

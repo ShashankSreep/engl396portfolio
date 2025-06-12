@@ -17,5 +17,5 @@ To learn about how to interact with specific features and customize the applicat
 
 To learn more about the code base and get specific documentation, please visit the **reference**: [Reference Overview](/Reference/Comments/numberOneAlbums.md)
 
-
+If you have questions or want clarifications about the specific terminology used, please visit the **glossary**: [Glossary](/Reference/faq.md)
 
