@@ -1,9 +1,9 @@
 # App Overview
 ## Who Should Read This?
 
-- **Developers**: Programmers and data analysts interested in utilizing or extending the codebase for personal or professional projects.
+- Programmers and data analysts interested in utilizing or extending the codebase for personal or professional projects.
 
-- **Non-Developers**: Anyone interested in gaining insights about their album ratings and rankings through data visualization and statistical analysis.
+- Anyone interested in gaining insights about their album ratings and rankings through data visualization and statistical analysis.
 
 
 # Background <!-- ## Make this sound better in the future -->
